@@ -1,0 +1,9 @@
+{
+  "appname": "Mydeal.lk Search Product | E2E Test",
+  "appdata": {
+    "baseUrl": "https://myaccount.lk/signin"
+  },
+  "data": {
+    "sheetId": "18fmVlYV7IITr6jtlvu4oAfweuzlalBnIX6psRgDsQFU"
+  }
+}

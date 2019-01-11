@@ -1,0 +1,23 @@
+# dependencies
+/node_modules
+
+# misc
+.DS_Store
+.env
+/.idea
+/dist
+/npm-debug.log*
+/package-lock.json
+/test-reports
+
+### Vim ###
+# swap
+[._]*.s[a-v][a-z]
+[._]*.sw[a-p]
+[._]s[a-v][a-z]
+[._]sw[a-p]
+# session
+Session.vim
+
+/build*.sh
+.vscode/

@@ -1,0 +1,20 @@
+{
+    "data": {
+        "pages": {
+            "login": {
+                "url": "https://myaccount.lk/signin",
+                "uiobjects": {
+                    "buttonSignIn": {
+                        "selector": "button[type=submit]"
+                    },
+                    "inputEmail": {
+                        "selector": "#txtEmail"
+                    },
+                    "inputPassword": {
+                        "selector": "#txtPassword"
+                    }
+                }
+            }
+        }
+    }
+}

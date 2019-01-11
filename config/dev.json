@@ -1,0 +1,6 @@
+{
+  "appname": "Mydeal.lk Search Product | E2E Test",
+  "appdata": {
+    "baseUrl": "https://myaccount.lk/signin"
+  }
+}

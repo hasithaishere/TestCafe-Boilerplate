@@ -1,0 +1,20 @@
+{
+    "data": {
+        "pages": {
+            "login": {
+                "url": "https://www.aliexpress.com/",
+                "uiobjects": {
+                    "buttonSearch": {
+                        "selector": "button[type=submit]"
+                    },
+                    "inputSearch": {
+                        "selector": "#search-input"
+                    },
+                    "buttonDailyDealModelClose": {
+                        "selector": "#one-time-popup .close"
+                    }
+                }
+            }
+        }
+    }
+}
